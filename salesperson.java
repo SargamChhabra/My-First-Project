@@ -1,4 +1,4 @@
-import java.util.Arrays
+import java.util.Arrays;
 class salesperson {
 	public static void main(String[]args){
 	float S= new float[5][6]
